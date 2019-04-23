@@ -1,2 +1,2 @@
-alert("Second text in js")
+alert("Second text in js également modifié")
 
